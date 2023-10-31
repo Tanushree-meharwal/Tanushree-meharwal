@@ -1,4 +1,4 @@
-![image](https://github.com/Tanushree-meharwal/Tanushree-meharwal/assets/111167153/a669d00d-159c-4d2c-84ac-5816b54d3f16)<h1 align="center">Hi 👋, I'm Tanushree Meharwal</h1>
+<h1 align="center">Hi 👋, I'm Tanushree Meharwal</h1>
 <h3 align="center">A professional Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
