@@ -1,4 +1,4 @@
-<img src="https://github.com/Tanushree-meharwal/Tanushree-meharwal/blob/main/animation.gif" alt="logo" width="1000" height="300">
+<img src="https://github.com/Tanushree-meharwal/Tanushree-meharwal/blob/main/animation3.gif" alt="logo" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Tanushree Meharwal</h1>
 <h3 align="center">A professional Data Analyst from India</h3>
